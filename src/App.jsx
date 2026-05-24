@@ -852,11 +852,6 @@ export default function App() {
 
       </main>
 
-      <footer className="bg-slate-900 text-slate-400 py-8 border-t border-slate-800 mt-12">
-        <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 text-center text-xs">
-          <p>©️ 2026 Developer Master Plan Analytics. All rights visualised matching physical master planning constraints.</p>
-        </div>
-      </footer>
     </div>
   );
 }
